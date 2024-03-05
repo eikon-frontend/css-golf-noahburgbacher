@@ -1,2 +1,19 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #62374e, #fdc57b  */
+
+
+.brown {
+    height: 300px;
+    width: 400px;
+    background-color: #62374e;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.yellow {
+    width: 50px;
+    height: 50px;
+    background-color: #fdc57b;
+    margin: 50px;
+}
